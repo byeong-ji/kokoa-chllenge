@@ -1,3 +1,3 @@
 # Kokoa Chllenge Update
 
-CSS get so much better!
+HTML & CSS are so much fun!
